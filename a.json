@@ -1,0 +1,12 @@
+{
+"success": true,
+"asset": "DIAMONDHANDS",
+"asset_issuer_address": "DBAA76v2Mqkms86NguuLtxH1VXnPrVEroa",
+"asset_owner_address": "DBAA76v2Mqkms86NguuLtxH1VXnPrVEroa",
+"asset_supply": "1000",
+"asset_divisible": false,
+"asset_locked": true,
+"image": "https://raw.githubusercontent.com/cryptochainer/files/main/DIAMONDHANDS-icon.png",
+"image_large": "https://i.imgur.com/A5STGbk.jpg",
+"image_title": "DIAMONDHANDS"
+}
